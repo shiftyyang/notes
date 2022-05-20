@@ -84,3 +84,35 @@ end
 
 
 
+## 20200519 生产环境压测
+
+4C16G*5 业务接口
+
+![image-20220519203337207](http://blog-shifty.oss-cn-shanghai.aliyuncs.com/uPic/image-20220519203337207.png)
+
+8C8*5 业务接口
+
+![image-20220519204343966](http://blog-shifty.oss-cn-shanghai.aliyuncs.com/uPic/image-20220519204343966.png)
+
+![image-20220519204605262](http://blog-shifty.oss-cn-shanghai.aliyuncs.com/uPic/image-20220519204605262.png)
+
+![image-20220519204834818](http://blog-shifty.oss-cn-shanghai.aliyuncs.com/uPic/image-20220519204834818.png)
+
+![image-20220519210020261](http://blog-shifty.oss-cn-shanghai.aliyuncs.com/uPic/image-20220519210020261.png)
+
+![image-20220519210832409](http://blog-shifty.oss-cn-shanghai.aliyuncs.com/uPic/image-20220519210832409.png)
+
+8C8G * 5 helloWorld 
+
+![image-20220519210357144](http://blog-shifty.oss-cn-shanghai.aliyuncs.com/uPic/image-20220519210357144.png)
+
+
+
+## 20200520 生产环境压测
+
+![image-20220520141919771](/Users/shifty/Library/Application%20Support/typora-user-images/image-20220520141919771.png)
+
+![image-20220520142141373](/Users/shifty/Library/Application%20Support/typora-user-images/image-20220520142141373.png)
+
+![image-20220520153743695](http://blog-shifty.oss-cn-shanghai.aliyuncs.com/uPic/image-20220520153743695.png)
+
